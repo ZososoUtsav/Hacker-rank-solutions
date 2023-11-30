@@ -1,5 +1,4 @@
 Explore a curated collection of clean and efficient solutions to HackerRank problems. Learn diverse programming approaches, find solutions in various languages, and dive into well-documented code.
-
 Features:
 Structured Solutions: Clear and concise explanations for each problem.
 Multiple Languages: Solutions in Python, JavaScript, and more.
